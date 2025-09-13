@@ -5,10 +5,10 @@ This repo is my **personal DSA journal**, tracking every problem I solve followi
 
 ---
 
-## Purpose
-- Keep a **structured record** of problems solved by topic.  
-- Track **progress over time**.  
-- Practice **clean, professional code style** in C (or other languages).  
-- Serve as a reference for **future me** to review concepts, patterns, and solutions.  
+## Why this repo?
+- Keep a **track of every problem** I solve.  
+- Write **my notes & thought process** so I don’t have to figure it out again.  
+- Practice **writing clean C code** (and maybe other languages later).  
+- Basically my **DSA diary**.  
 
 ---
