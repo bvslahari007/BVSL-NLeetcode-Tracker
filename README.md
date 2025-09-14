@@ -1,7 +1,7 @@
 # My Leetcode Tracker
 
 Welcome to my **LeetCode problem-solving repository**!  
-This repo is my **personal DSA journal**, tracking every problem I solve following the [NeetCode Roadmap](https://neetcode.io/roadmap).
+This repo is my **personal DSA journal**, tracking every problem I solve.
 
 ---
 
